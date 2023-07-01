@@ -1,0 +1,185 @@
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\stickets.exe.config
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\stickets.exe
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\stickets.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\ControlzEx.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MahApps.Metro.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MaterialDesignColors.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\ControlzEx.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\ControlzEx.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MahApps.Metro.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MahApps.Metro.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MaterialDesignColors.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.csproj.AssemblyReference.cache
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.csproj.SuggestedBindingRedirects.cache
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\MainWindow.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Authorization.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\App.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets_MarkupCompile.cache
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets_MarkupCompile.lref
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\App.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\MainWindow.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Authorization.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.g.resources
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.Properties.Resources.resources
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.csproj.GenerateResource.cache
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.csproj.CoreCompileInputs.cache
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.csproj.CopyComplete
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.exe
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\stickets.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Menu.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Sales\View.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Timetable\Work.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Users\Work.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Menu.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Sales\View.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Timetable\Work.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Users\Work.baml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\Google.Protobuf.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MySql.Data.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Buffers.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Memory.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\Google.Protobuf.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\Google.Protobuf.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\MySql.Data.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Buffers.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Memory.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Add.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Timetable\View.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Add.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Timetable\View.baml
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Collections.Immutable.dll
+C:\Users\iddqd\source\repos\stickets\stickets\bin\Debug\System.Collections.Immutable.xml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\AddUser.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Perfomance.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Timetable.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\User.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\AddUser.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Perfomance.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Timetable.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\User.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Performances\View.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Manager\Performances\View.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\AddPerfomance.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\AddPerfomance.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\AddTimetable.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\AddTimetable.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Timetable.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Timetable.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Place.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Place.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Ticket.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Ticket.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\stickets.exe.config
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\stickets.exe
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\stickets.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\ControlzEx.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\Google.Protobuf.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MahApps.Metro.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MaterialDesignColors.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MySql.Data.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Buffers.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Collections.Immutable.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Memory.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\ControlzEx.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\ControlzEx.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\Google.Protobuf.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\Google.Protobuf.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MahApps.Metro.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MahApps.Metro.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MaterialDesignColors.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\MySql.Data.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Buffers.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Collections.Immutable.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Memory.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\AddPerfomance.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\AddTimetable.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\AddUser.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Place.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Timetable.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Perfomance.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Timetable.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\User.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\MainWindow.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Authorization.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Add.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Ticket.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Cassier\Timetable\View.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Menu.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Performances\View.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Sales\View.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Timetable\Work.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Users\Work.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\App.g.cs
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets_MarkupCompile.cache
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets_MarkupCompile.lref
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\App.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\AddPerfomance.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\AddTimetable.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\AddUser.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Place.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\Timetable.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Perfomance.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\Timetable.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Assets\UserControls\User.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\MainWindow.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Authorization.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Add.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Cassier\Sale\Ticket.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Cassier\Timetable\View.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Menu.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Performances\View.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Sales\View.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Timetable\Work.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\Windows\Manager\Users\Work.baml
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.g.resources
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.Properties.Resources.resources
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.exe
+C:\Users\aleks\OneDrive\Рабочий стол\stickets\stickets\obj\Debug\stickets.pdb
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\PlaceSmall.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Sale\AddSmall.g.cs
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Assets\UserControls\Cassier\PlaceSmall.baml
+C:\Users\iddqd\source\repos\stickets\stickets\obj\Debug\Windows\Cassier\Sale\AddSmall.baml

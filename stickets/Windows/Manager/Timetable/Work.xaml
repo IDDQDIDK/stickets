@@ -1,0 +1,39 @@
+﻿<Window x:Class="stickets.Windows.Manager.Timetable.Work"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:stickets.Windows.Manager.Timetable"
+        mc:Ignorable="d"
+        Title="Расписание постановок"  Height="800" Width="1600" FontSize="30" FontFamily="Comic Sans MS" Background="DarkRed" WindowStartupLocation="CenterScreen" Foreground="DarkRed">
+    <Grid>
+        <Border CornerRadius="0,0,40,40" Height="760" Background="White" VerticalAlignment="Top">
+            <StackPanel>
+                <Label/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <TextBlock VerticalAlignment="Center">Поиск:</TextBlock>
+                    <Label/>
+                    <TextBox x:Name="SearchBox" Width="500" Height="65" TextChanged="SearchBox_TextChanged"></TextBox>
+                    <Label/>
+                    <TextBlock VerticalAlignment="Center">Фильтрация:</TextBlock>
+                    <Label/>
+                    <ComboBox x:Name="FiltrationBox" Width="300" DropDownClosed="FiltrationBox_DropDownClosed">
+                    </ComboBox>
+                    <Label/>
+                    <Label/>
+                    <StackPanel/>
+                </StackPanel>
+                <Label/>
+                <ScrollViewer Height="625" VerticalScrollBarVisibility="Hidden">
+                    <WrapPanel x:Name="TimetableBox"></WrapPanel>
+                </ScrollViewer>
+                <!--<Label/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Button x:Name="PreviousPage" Height="50" FontSize="30" Click="PreviousPage_Click">←</Button>
+                    <Label Width="100"/>
+                    <Button x:Name="NextPage" Height="50" FontSize="30" Click="NextPage_Click">→</Button>
+                </StackPanel>-->
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

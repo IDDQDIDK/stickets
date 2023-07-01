@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="stickets.Assets.UserControls.Perfomance"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:stickets.Assets.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="450" FontSize="15" FontFamily="Comic Sans MS" Foreground="White"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
+    <Grid Height="500" Width="450">
+        <Border CornerRadius="20" Height="475" Width="435" Background="Black">
+            <Border CornerRadius="20" Background="DarkRed" Height="470" Width="430">
+                <Grid>
+                    <StackPanel>
+                        <Label Height="90"/>
+                        <TextBlock x:Name="Hint" FontSize="30" TextAlignment="Center">Перетащите сюда картинку</TextBlock>
+                    </StackPanel>
+                    <StackPanel>
+                        <Label/>
+                        <Border x:Name="Img" CornerRadius="10,10,10,10" Width="350" Height="250" AllowDrop="True" Drop="Img_Drop">
+                            <Border.Background>
+                                <ImageBrush Stretch="Fill"/>
+                            </Border.Background>
+                        </Border>
+                        <TextBox x:Name="Title" materialDesign:HintAssist.Hint="Название" TextAlignment="Center"/>
+                        <Label/>
+                        <TextBox x:Name="Specification" materialDesign:HintAssist.Hint="Описание" TextAlignment="Center"/>
+                        <Label/>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Width="60"/>
+                            <TextBox x:Name="Duration" materialDesign:HintAssist.Hint="Длительность в минутах" TextAlignment="Center"/>
+                            <Label Width="30"/>
+                            <ComboBox x:Name="Hall" materialDesign:HintAssist.Hint="Зал" Width="100">
+                                <ComboBoxItem>Малый</ComboBoxItem>
+                                <ComboBoxItem>Большой</ComboBoxItem>
+                            </ComboBox>
+                        </StackPanel>
+                        <Label/>
+                        <StackPanel Orientation="Horizontal">
+                            <Label/>
+                            <TextBlock VerticalAlignment="Center">От</TextBlock>
+                            <Label/>
+                            <TextBox x:Name="Cost" materialDesign:HintAssist.Hint="Цена" TextAlignment="Center" Width="100"/>
+                            <Label/>
+                            <TextBlock>₽</TextBlock>
+                            <Label Width="30"/>
+                            <ComboBox x:Name="Genre" materialDesign:HintAssist.Hint="Жанр" Width="100"></ComboBox>
+                            <Label Width="60"/>
+                            <ComboBox x:Name="Age" materialDesign:HintAssist.Hint="Возраст"></ComboBox>
+                        </StackPanel>
+                        <Label/>
+                        <StackPanel Orientation="Horizontal">
+                            <Label/>
+                            <Button x:Name="Edit" Click="Edit_Click">Принять изменения</Button>
+                            <Label Width="105"/>
+                            <Button x:Name="Delete" Click="Delete_Click">Изменить статус</Button>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel VerticalAlignment="Top">
+                        <Label Height="60"/>
+                        <TextBlock x:Name="Status" Height="100" FontSize="70" TextAlignment="Center" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                            <TextBlock.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="17.523"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </TextBlock.RenderTransform>Не ставится</TextBlock>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Border>
+    </Grid>
+</UserControl>

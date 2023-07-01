@@ -1,0 +1,275 @@
+﻿<Window x:Class="stickets.Windows.Cassier.Sale.Add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:stickets.Windows.Cassier.Sale"
+        mc:Ignorable="d"
+        Title="Продажа" Height="800" Width="1400" FontSize="20" FontFamily="Comic Sans MS" Background="DarkRed" WindowStartupLocation="CenterScreen" Foreground="White" Closing="Window_Closing">
+    <Grid>
+        <Border CornerRadius="0,0,40,40" Height="760" Background="White" VerticalAlignment="Top">
+            <Grid>
+                <!--<Image Source="/Assets/Imgs/Зал.png" Height="720" Width="1000"/>-->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Border Background="DarkRed" CornerRadius="20" Width="900" Height="160">
+                            <Grid Width="800">
+                                <StackPanel RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Center">
+                                    <StackPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-20.107"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </StackPanel.RenderTransform>
+                                    <TextBlock>Правая ложа галлереи</TextBlock>
+                                    <WrapPanel Width="200" Height="70" x:Name="Gallery_Right"/>
+                                </StackPanel>
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <TextBlock TextAlignment="Center">Центр галлереи</TextBlock>
+                                    <WrapPanel Width="300" Height="80" x:Name="Gallery_Centre"/>
+                                    <Label Height="30"/>
+                                </StackPanel>
+                                <StackPanel RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" VerticalAlignment="Center">
+                                    <StackPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="20.107"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </StackPanel.RenderTransform>
+                                    <TextBlock>Левая ложа галлереи</TextBlock>
+                                    <WrapPanel Width="200" Height="70" x:Name="Gallery_Left"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                        <Label/>
+                        <Border Background="DarkRed" CornerRadius="20">
+                            <Grid Width="800">
+                                <StackPanel RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Center">
+                                    <StackPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-20.107"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </StackPanel.RenderTransform>
+                                    <TextBlock Width="220">Правая ложа балкона</TextBlock>
+                                    <WrapPanel Width="200" Height="70" x:Name="Balcony_Right"/>
+                                </StackPanel>
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <TextBlock TextAlignment="Center">Центр балкона</TextBlock>
+                                    <WrapPanel Width="300" Height="90" x:Name="Balcony_Centre"/>
+                                    <Label Height="30"/>
+                                </StackPanel>
+                                <StackPanel RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" VerticalAlignment="Center">
+                                    <StackPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="20.107"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </StackPanel.RenderTransform>
+                                    <TextBlock TextAlignment="Center">Левая ложа балкона</TextBlock>
+                                    <WrapPanel Width="200" Height="70" x:Name="Balcony_Left"/>
+                                </StackPanel>
+
+                            </Grid>
+                        </Border>
+                        <Label/>
+                        <Border Background="DarkRed" CornerRadius="20">
+                            <StackPanel>
+                                <TextBlock TextAlignment="Center">Бельтаж</TextBlock>
+                                <WrapPanel Width="400" Height="90" x:Name="Beltazh_Centre"/>
+                                <Label/>
+
+                            </StackPanel>
+                        </Border>
+                        <Label/>
+                        <Border Background="DarkRed" CornerRadius="20">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Label/>
+                                <WrapPanel Width="40" Height="250" x:Name="Beltazh_Right" RenderTransformOrigin="0.5,0.5">
+                                    <WrapPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-3.816"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </WrapPanel.RenderTransform>
+                                </WrapPanel>
+                                <Label/>
+                                <WrapPanel Width="30" Height="250" x:Name="Benuar_Right" RenderTransformOrigin="0.5,0.5">
+                                    <WrapPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="-3.816"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </WrapPanel.RenderTransform>
+                                </WrapPanel>
+                                <Label/>
+                                <WrapPanel Width="300" Height="250" x:Name="Parter"/>
+                                <Label/>
+                                <WrapPanel Width="40" Height="250" x:Name="Benuar_Left" RenderTransformOrigin="0.5,0.5">
+                                    <WrapPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="3.816"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </WrapPanel.RenderTransform>
+                                </WrapPanel>
+                                <Label/>
+                                <WrapPanel Width="40" Height="250" x:Name="Beltazh_Left" RenderTransformOrigin="0.5,0.5">
+                                    <WrapPanel.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform/>
+                                            <RotateTransform Angle="3.816"/>
+                                            <TranslateTransform/>
+                                        </TransformGroup>
+                                    </WrapPanel.RenderTransform>
+                                </WrapPanel>
+                                <Label/>
+                            </StackPanel>
+                        </Border>
+                        <Label/>
+                        <Border Background="DarkRed" CornerRadius="20">
+                            <TextBlock TextAlignment="Center">Сцена</TextBlock>
+                        </Border>
+                    </StackPanel>
+                    <Label/>
+                    <Border Width="350" Background="DarkRed" CornerRadius="20" Height="745">
+                        <StackPanel x:Name="Prices" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <StackPanel>
+                                <TextBlock>Цены:</TextBlock>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="LightGoldenrodYellow"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price1">Правая ложа галлереи:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="Yellow"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price2">Центр галлереи:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="GreenYellow"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price3">Левая ложа галлереи:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="CornflowerBlue"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price4">Правая ложа балкона:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="Blue"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price5">Центр балкона:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="CadetBlue"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price6">Левая ложа балкона:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="Green"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price7">Бельтаж:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="DarkGreen"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price8">Правая ложа бельтажа:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="Navy"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price9">Правая ложа бенуара:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="SaddleBrown"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price10">Партер:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="DeepSkyBlue"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price11">Левая ложа бенуара:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                                <StackPanel Orientation="Horizontal">
+                                    <Border Height="28" Width="28" CornerRadius="30" Background="Black">
+                                        <Border  Height="25" Width="25" CornerRadius="30" Background="DarkOliveGreen"/>
+                                    </Border>
+                                    <Label/>
+                                    <TextBlock x:Name="Price12">Левая ложа бельтажа:</TextBlock>
+                                </StackPanel>
+                                <Label/>
+                            </StackPanel>
+                            <TextBlock>Информация о билете</TextBlock>
+                            <Label/>
+                            <TextBlock x:Name="PerformanceTitle">Постановка:</TextBlock>
+                            <Label/>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock>Место:</TextBlock>
+                                <TextBlock x:Name="Place"></TextBlock>
+                            </StackPanel>
+                            <Label/>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Name="Cost">Цена:</TextBlock>
+                                <Label></Label>
+                                <TextBlock x:Name="PlaceCost"></TextBlock>
+                            </StackPanel>
+                            
+                            <Label Height="80"/>
+                            <Button x:Name="Apply" Click="Apply_Click">Подтвердить</Button>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

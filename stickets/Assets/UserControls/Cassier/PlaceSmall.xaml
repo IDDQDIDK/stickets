@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="stickets.Assets.UserControls.Cassier.PlaceSmall"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:stickets.Assets.UserControls.Cassier"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="60">
+    <Grid Height="30" Width="60">
+        <Label x:Name="BackgroundBlack" Width="0" Background="Black"></Label>
+        <Label x:Name="BackgroundBrown" Width="0" Background="DarkRed"></Label>
+        <Label x:Name="BackgroundGray" Width="0" Background="Gray"></Label>
+        <Border x:Name="LimeBG" Height="25" Width="25" CornerRadius="30" Background="Lime"/>
+        <Border x:Name="YellowBG" Height="25" Width="25" CornerRadius="30" Background="Yellow"/>
+        <Border x:Name="OrangeBG" Height="25" Width="25" CornerRadius="30" Background="Orange"/>
+        <Border x:Name="RedBG" Height="25" Width="25" CornerRadius="30" Background="Red"/>
+
+        <Border x:Name="Around" Height="28" Width="58" CornerRadius="3" Background="Black" MouseEnter="Around_MouseEnter" MouseLeave="Around_MouseLeave" MouseDown="Around_MouseDown">
+            <Border x:Name="PlaceColor" Height="25" Width="55" CornerRadius="3" Background="Aqua">
+                <Border.ToolTip>
+                    <ToolTip Background="White" Foreground="DarkRed" HasDropShadow="True"
+                Placement="Relative" HorizontalOffset="15" VerticalOffset="10">
+                        <StackPanel>
+                            <TextBlock x:Name="Cost">Цена:</TextBlock>
+                            <TextBlock x:Name="Title"></TextBlock>
+                        </StackPanel>
+                    </ToolTip>
+                </Border.ToolTip>
+            </Border>
+        </Border>
+    </Grid>
+</UserControl>

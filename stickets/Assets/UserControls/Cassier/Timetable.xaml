@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="stickets.Assets.UserControls.Cassier.Timetable"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:stickets.Assets.UserControls.Cassier"
+             mc:Ignorable="d" 
+             d:DesignHeight="350" d:DesignWidth="300" FontSize="20" FontFamily="Comic Sans MS" Foreground="DarkRed">
+    <Grid Height="350" Width="300" MouseDown="Grid_MouseDown">
+        <Border CornerRadius="20" Height="340" Width="290" Background="Black">
+            <Border CornerRadius="20" Height="330" Width="280" Background="DarkRed">
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Grid>
+                        <StackPanel>
+                            <Label Height="2"/>
+                            <Border x:Name="Img" Width="250" Height="230" CornerRadius="20"/>
+                        </StackPanel>
+                        <Border Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Background="DarkRed" CornerRadius="0, 0, 10, 0">
+                            <StackPanel>
+                                <TextBlock x:Name="DateAndTime" Foreground="White" >23 мая - СБ - 19:00</TextBlock>
+                                <Label/>
+                            </StackPanel>
+                        </Border>
+                    </Grid>
+                    <Label/>
+                    <TextBlock x:Name="Title" Foreground="White" TextWrapping="Wrap" TextAlignment="Center">Название</TextBlock>
+                    <Label/>
+                    <Grid>
+                        <TextBlock x:Name="Cost" Foreground="White">От 1500 р</TextBlock>
+                        <Label/>
+                        <TextBlock x:Name="Age" HorizontalAlignment="Right" Foreground="White">6+</TextBlock>
+                    </Grid>
+                </StackPanel>
+
+            </Border>
+        </Border>
+    </Grid>
+</UserControl>
